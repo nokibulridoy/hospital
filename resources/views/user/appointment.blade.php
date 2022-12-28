@@ -41,7 +41,7 @@
           </div>
         </div>
 
-        <button type="submit" class="btn btn-primary mt-3 wow zoomIn">Submit Request</button>
+        <button type="submit" style="background-color: #00D9A5; color:#fff; padding: 9px; border-radius: 5px;" >Submit Request</button>
       </form>
     </div>
   </div>
